@@ -1,3 +1,6 @@
+**ORIGIN REPOSITORY : https://github.com/mwagner9/BEGPUThinning
+** DIFFERENCE FROM ORIGIN REPO IS WORKS ıN LINUX! **
+
 This code provides implementation of the real-time thinning / centerline extraction techniques
 proposed in "Real-time thinning algorithms for 2D and 3D images using GPU processors" (Wagner, 
 2019, Journal of Real-Time Image Processing). The library take binarized 2D images or 3D volumes
